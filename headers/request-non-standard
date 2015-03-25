@@ -1,0 +1,12 @@
+X-Requested-With
+DNT
+X-Forwarded-For
+X-Forwarded-Host
+X-Forwarded-Proto
+Front-End-Https
+X-Http-Method-Override
+X-ATT-DeviceId
+X-Wap-Profile
+Proxy-Connection
+X-UIDH
+X-Csrf-Token
