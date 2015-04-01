@@ -5,13 +5,13 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = "mlhead",
+    name = "headhunter",
     version = "0.0.1",
     author = "Alex Moneger",
     author_email = "alexmgr@gmail.com",
     description = ("A tool to detect malicious HTTP connections by using "
                    "machine learning"),
     license = "GPL3",
-    packages=["mlhead"],
+    packages=["headhunter"],
     long_description=read('README.md'),
 )
